@@ -3,7 +3,7 @@ prod:
   - botname: My Production Bot
     username: my_production_bot
     token: 
-      1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghi
+      7875219149:AAEp8kmi0gPDgXop3QTxUlLO3IFq-bmv4bA
     about:
       "this is some short text about my bot"
     description:

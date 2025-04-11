@@ -1,4 +1,1 @@
-ansimarkup==1.5.0
-pyfiglet==0.8.post1
 python-telegram-bot==13.15
-PyYAML==6.0

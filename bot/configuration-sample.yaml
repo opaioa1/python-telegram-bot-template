@@ -1,7 +1,7 @@
 mode: dev
 prod:
-  - botname: My Production Bot
-    username: my_production_bot
+  - botname: StatsBot
+    username: sextafeirafutebolbot
     token: 
       7875219149:AAEp8kmi0gPDgXop3QTxUlLO3IFq-bmv4bA
     about:
@@ -10,10 +10,10 @@ prod:
       "This is a description of what my bot can do which customer will use"
 
 dev:
-  - botname: Development Bot
-    username: my_development_bot
+  - botname: StatsBot
+    username: sextafeirafutebolbot
     token: 
-      1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghi
+      7875219149:AAEp8kmi0gPDgXop3QTxUlLO3IFq-bmv4bA
     about:
       "this is some short text about development bot  "
     description:
